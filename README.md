@@ -7,8 +7,7 @@
   <body>
     <strong>IS ANYTHING EVER REAL ANYMORE</strong>
     
-    ![IMG_8806 (1)](https://user-images.githubusercontent.com/130796070/232514245-fe2e99a6-bf9e-40ed-b0c2-24564e3a8cac.jpg)
-
+    ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
     
   </body>
   
